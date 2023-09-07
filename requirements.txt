@@ -1,6 +1,7 @@
-langchain
-streamlit
-openai
-tiktoken
-python-dotenv
-faiss-cpu
+langchain==0.0.281
+python-dotenv==1.0.0
+streamlit==1.26.0
+openai==0.28.0
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+altair==4.0
